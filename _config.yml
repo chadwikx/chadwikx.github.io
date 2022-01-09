@@ -12,8 +12,8 @@ github_username:  chadwikx
 # Build settings
 #theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 search_enabled: true
 search:
