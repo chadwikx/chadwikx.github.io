@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LazyAdmin
+title: THM - LazyAdmin
 ---
 
 # Test
