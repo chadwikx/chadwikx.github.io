@@ -26,7 +26,7 @@ nmap -sC -sV -oA scans/smallscan 10.10.43.65
 
 I was quickly met with an open SSH port and HTTP port. I visited the default webpage but was met with the default apache landing page. I figured there was something more here, so I used gobuster to look around the web directory. 
 
-<center><img src="/assets/lazyadmin/1.png"></img></center>
+<center><img src="/assets/lazyadmin/1.png"></center>
 
 
 ## Directories
